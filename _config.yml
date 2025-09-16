@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "Profile.JPG"
   name             : "Beren Akpinar"
   pronouns         : # example: "she/her"  
   bio              : "Undergraduate studying Comptuer Science and Neuroscience, interested in Neurorehabiliation and Wearable Robotics "
